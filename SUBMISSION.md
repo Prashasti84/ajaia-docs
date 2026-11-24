@@ -5,7 +5,7 @@
 
 ## Links
 
-- **Live app:** `<PASTE YOUR RENDER URL HERE>`
+- **Live app:** `<https://ajaia-docs-09h5.onrender.com>`
 - **Walkthrough video:** see `VIDEO_URL.txt`
 - **Source:** this folder
 

@@ -3,7 +3,7 @@
 A lightweight collaborative document editor, inspired by Google Docs, built for the Ajaia
 Full Stack Product Engineer assignment.
 
-**Live app:** `<PASTE YOUR RENDER URL HERE>`
+**Live app:** `<https://ajaia-docs-09h5.onrender.com>`
 (Free Render instance: the first request after 15 idle minutes takes about a minute to wake up.)
 
 ## Demo accounts
